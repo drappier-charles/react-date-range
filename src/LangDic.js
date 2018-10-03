@@ -75,13 +75,13 @@ export default {
     'october':'ottobre',
     'november':'novembre',
     'december':'dicembre',
-    'su':'Domenica',
-    'mo':'Lunedì',
-    'tu':'Martedì',
-    'we':'Mercoledì',
-    'th':'Giovedì',
-    'fr':'Venerdì',
-    'sa':'Sabato'
+    'su':'D.',
+    'mo':'L.',
+    'tu':'M.',
+    'we':'M.',
+    'th':'G.',
+    'fr':'V.',
+    'sa':'S.'
   },
   'de' : { // German
     'january':'Januar',
